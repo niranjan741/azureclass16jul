@@ -1,0 +1,15 @@
+{
+	"name": "myadf16jul",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c98231f6-153b-45ee-9a3c-da440c14f482",
+		"tenantId": "9fdea746-3a5b-4b52-a7b7-de70655e6235"
+	}
+}
